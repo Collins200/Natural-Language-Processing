@@ -1,0 +1,9 @@
+Importing Libraries along with our Data
+Expanding Contractions
+Language Detection
+Tokenization
+Converting all Characters to Lowercase
+Removing Punctuations
+Removing Stopwords
+Parts of Speech Tagging
+Lemmatization
